@@ -81,7 +81,7 @@ l. **Adjust Frame Size**- These two options will adjust the size of the source p
 m. **Syntax Highlighting**- This allows you to adjust the syntax highlighting of your active document to match the highlighting of other file types.
 n. **"Jump To" Menu**- This menu allows you to quickly jump to different sections of your code.
 o. **Cursor Position**- This displays your current cursor position by row and column.
-p. **Row Numbers**- The lef-thand side of your document will display the row number for each line of your code.
+p. **Row Numbers**- The left-hand side of your document will display the row number for each line of your code.
 q. **Back/Forward**- These arrows are navigation tools that will allow you to redo/undo the following actions: opening a document (or switching tabs), going to a function definition, jumping to a line, and jumping to a function using the function menu [@paulson22].
 r. **Tab**- This is a tab in the traditional sense, meaning you are able to have a collection of documents open displayed as tabs. These tabs will have the title of your document and often an icon of some sort to demonstrate the file type.
 
